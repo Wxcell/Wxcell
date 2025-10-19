@@ -4,4 +4,4 @@ Sou estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> , com f
 
 <h2>Sobre Mim:</h2>
 
-<p>🇧🇷Moro em São Paulo - Capital <br></p>
+<p>🇧🇷 Moro em São Paulo - Capital <br></p>
