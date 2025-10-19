@@ -4,4 +4,4 @@ Sou estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> , com f
 
 <h2>Sobre Mim:</h2>
 
-<p><img src="https://cdn-icons-png.flaticon.com/512/197/197386.png" width="13"/>Moro em São Paulo - Capital <br></p>
+<p><img src="https://cdn-icons-png.flaticon.com/512/197/197386.png" width="13"/> Moro em São Paulo - Capital <br></p>
