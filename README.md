@@ -4,4 +4,4 @@
 
 <h2>Sobre Mim:</h2>
 
-<p><li><img src="https://cdn-icons-png.flaticon.com/512/197/197386.png" width="13"/> Moro em São Paulo - Capital</li> <br>LiObjetivo:</p>
+<p><li>Moro em São Paulo - Capital</li> <br>LiObjetivo:</p>
