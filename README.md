@@ -6,4 +6,4 @@
 
 <p><li>Morador de São Paulo - Capital</li> <br><li>Objetivo:</li></p>
 
-<img alt="Static Badge" src="https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge&logo=discord&logoColor=%235865F2&logoSize=auto&label=Discord&labelColor=%2300539F&color=%2300539F&cacheSeconds=3600">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
