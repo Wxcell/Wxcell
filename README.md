@@ -1,8 +1,6 @@
-## Hi there 👋
+## Olá, Me chamo William 
 
-<!--
-**Wxcell/Wxcell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+![Texto alternativo](https://www.reddit.com/r/Silksong/comments/1krial4/all_the_emojis_ive_made_here_that_i_could_find_in/#lightbox)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
